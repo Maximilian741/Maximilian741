@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on web development in the cascade cms for the Maureen and Mike Mansfield Center at the University of Montana.
+
 
 <!--
 **Maximilian741/Maximilian741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
