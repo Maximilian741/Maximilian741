@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  I build practical software—accessibility tools, automation, and web/app projects.
+  I build practical software, 
+  accessibility tools, automation, and web/app projects.
 </p>
 
 <p align="center">
