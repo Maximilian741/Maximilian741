@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.sunriverconsulting.us/"><b>Company Website</b></a> 
   <a href="mailto:max.casteel.mso@gmail.com"><b>Email</b></a>
-  <a href="mailto:max.casteel.mso@gmail.com"><b>Email</b></a>"><b>Linkedin</b></a>
+  <a href="https://www.linkedin.com/in/maximilian-casteel-10a623b5/"><b>Email</b></a>
 </p>
 
 ---
