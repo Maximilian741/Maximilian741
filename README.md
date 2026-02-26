@@ -5,26 +5,26 @@
 </p>
 
 <p align="center">
-  I build practical software, 
+  I build software, 
   accessibility tools, automation, and web/app projects.
 </p>
 
 <p align="center">
-  <a href="YOUR_WEBSITE_URL"><b>Website</b></a> •
+  <a href="https://www.sunriverconsulting.us/"><b>Website</b></a> •
   <a href="YOUR_LINKEDIN_URL"><b>LinkedIn</b></a> •
-  <a href="mailto:you@domain.com"><b>Email</b></a>
+  <a href="max.casteel.mso@gmail.com"><b>Email</b></a>
 </p>
 
 ---
 
 ### What I’m working on
-- **508-Agent** — PDF / 508 accessibility workflows + tooling
-- **Vital Tails** — pet health tracking app (Android)
+- **508-Agent**  PDF / 508 accessibility workflows + tooling
+- **Vital Tails**  pet health tracking app (Android)
 
 ### What I care about
-- Accessibility-first design
-- Automation that actually saves time
-- Shipping tools people can use (not just demos)
+- Shipping tools people can use
+- Automation that saves time
+- Shipping tools people can use
 
 ---
 
