@@ -8,7 +8,7 @@
   I build software, 
   accessibility tools, automation, and web/app projects.
 </p>
-
+ 
 <p align="center">
   <a href="https://www.sunriverconsulting.us/"><b>Company Website</b></a> 
   <a href="mailto:max.casteel.mso@gmail.com"><b>Email</b></a>
