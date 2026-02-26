@@ -10,8 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.sunriverconsulting.us/"><b>Website</b></a> •
-  <a href="YOUR_LINKEDIN_URL"><b>LinkedIn</b></a> •
+  <a href="https://www.sunriverconsulting.us/"><b>Company Website</b></a> 
   <a href="max.casteel.mso@gmail.com"><b>Email</b></a>
 </p>
 
