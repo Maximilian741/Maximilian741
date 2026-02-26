@@ -22,10 +22,9 @@
 - **Vital Tails**  pet health tracking app (Android)
 
 ### What I care about
-- Shipping tools people can use
-- Automation that saves time
-- Shipping tools people can use
-
+- shipping tools people can use
+- automation that saves time
+- good coding
 ---
 
 <details>
