@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.sunriverconsulting.us/"><b>Company Website</b></a> 
-  <a href="max.casteel.mso@gmail.com"><b>Email</b></a>
+  <a href="mailto:max.casteel.mso@gmail.com"><b>Email</b></a>
 </p>
 
 ---
