@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  I build software, 
-  accessibility tools, automation, and web/app projects.
+  I build software, automation, and web/app projects.
 </p>
  
 <p align="center">
