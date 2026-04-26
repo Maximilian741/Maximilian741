@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋 I'm Max</h2>
-
+ 
 <p align="center">
   <img src="./pixel-sunset-dog.gif" alt="Pixel sunset with a dog" width="900" />
 </p>
