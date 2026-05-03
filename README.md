@@ -23,7 +23,6 @@
 ### What I care about
 - shipping tools people can use
 - automation that saves time
-- good coding
 ---
 
 <details>
